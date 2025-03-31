@@ -1,11 +1,11 @@
-# Filipe-Lourenco
-Olá pessoal 👏
+# Olá, eu sou o Filipe 👋
 
 .🧑‍💼 Atualmente trabalho como suporte de T.I na Almeida Metais
 
 .🎷 Toco Sax no meu tempo livre 
 
 .🎓 Sou estudante de ADS da UMC e estou no 3º semestre 
+
 (Universidade de Mogi das Cruzes)
 
 .📚 Cursando na Coursera também!
