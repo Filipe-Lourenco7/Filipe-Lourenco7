@@ -6,6 +6,7 @@ Olá pessoal 👏
 .🎷 Toco Sax no meu tempo livre 
 
 .🎓 Sou estudante de ADS da UMC e estou no 3º semestre 
+(Universidade de Mogi das Cruzes)
 
 .📚 Cursando na Coursera também!
 
