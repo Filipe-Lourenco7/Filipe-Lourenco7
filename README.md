@@ -1,14 +1,12 @@
-# Olá, eu sou o Filipe ! ![Mão Acenando](https://raw.githubusercontent.com/username/repository/main/waving-hand.gif)
+# Olá, eu sou o Filipe ! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="38" height="38" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="35" height="35" />
+-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="17" height="17" /> Atualmente trabalho como suporte de T.I na Almeida Metais
 
-.🧑‍💼 Atualmente trabalho como suporte de T.I na Almeida Metais
+-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Saxophone.png" alt="Saxophone" width="20" height="20" /> Toco Sax no meu tempo livre 
 
-.🎷 Toco Sax no meu tempo livre 
-
-.🎓 Sou estudante de ADS da UMC e estou no 3º semestre 
-
+-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Student%20Light%20Skin%20Tone.png" alt="Man Student Light Skin Tone" width="25" height="25" /> Sou estudante de ADS da UMC e estou no 3º semestre 
 (Universidade de Mogi das Cruzes)
 
-.📚 Cursando na Coursera também!
+-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Blue%20Book.png" alt="Blue Book" width="20" height="20" /> Cursando na Coursera também!
 
 ![Filipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Filipe-Lourenco7&theme=dracula&show_icons=true&include_all_commits=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Filipe-Lourenco7&layout=compact&theme=dracula)](https://github.com/Filipr-Lourenco7/github-readme-stats)
 
