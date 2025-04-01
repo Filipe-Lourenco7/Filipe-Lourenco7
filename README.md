@@ -1,4 +1,4 @@
-# Olá, eu sou o Filipe 👋
+# Olá, eu sou o Filipe ![Waving Hand](https://media.giphy.com/media/xT1R9JzU1wbS6uCfX6/giphy.gif)
 
 .🧑‍💼 Atualmente trabalho como suporte de T.I na Almeida Metais
 
