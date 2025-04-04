@@ -8,7 +8,7 @@
 
 -<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Blue%20Book.png" alt="Blue Book" width="20" height="20" /> Cursando na Coursera também!
 
-![Filipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Filipe-Lourenco7&theme=dracula&show_icons=true&include_all_commits=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Filipe-Lourenco7&layout=compact&theme=dracula)](https://github.com/Filipr-Lourenco7/github-readme-stats)
+![Filipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Filipe-Lourenco7&theme=dark&show_icons=true&include_all_commits=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Filipe-Lourenco7&layout=compact&theme=dark)](https://github.com/Filipr-Lourenco7/github-readme-stats)
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Filipe-Lourenco7/Filipe-Lourenco7/output/github-contribution-grid-snake-dark.svg">
