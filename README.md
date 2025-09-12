@@ -6,7 +6,7 @@
 -<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Student%20Light%20Skin%20Tone.png" alt="Man Student Light Skin Tone" width="25" height="25" /> Sou estudante de ADS da UMC e estou no 4º semestre 
 (Universidade de Mogi das Cruzes)
 
--<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Blue%20Book.png" alt="Blue Book" width="20" height="20" /> Cursando na Coursera também!
+-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Blue%20Book.png" alt="Blue Book" width="20" height="20" /> Estudando programação para me tornar um desenvolvedor!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Filipe-Lourenco7&layout=compact&theme=dark)](https://github.com/Filipr-Lourenco7/github-readme-stats)
 
